@@ -1,0 +1,17 @@
+.idea/
+.vscode/
+node_modules/
+build/
+temp/
+
+coverage
+
+tmp/*
+!tmp/.gitkeep
+tmp/uploads/*
+!tmp/uploads
+!tmp/uploads/.gitkeep
+.DS_Store
+
+.env
+ormconfig.json
