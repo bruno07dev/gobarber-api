@@ -33,6 +33,7 @@
       "camelcase": 0,
       "no-useless-constructor": "off",
       "class-methods-use-this": "off",
+      " @ typescript-eslint / ban-types " : [ " erro " ],
       "import/no-extraneous-dependencies": ["error", {
         "devDependencies": ["**/*.test.ts", "**/*.test.tsx"]}],
       "@typescript-eslint/no-unused-vars": ["error", {

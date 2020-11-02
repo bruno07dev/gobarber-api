@@ -3,8 +3,9 @@
 node_modules/
 build/
 temp/
-
+.env
 coverage
+ormconfig.json
 
 tmp/*
 !tmp/.gitkeep
@@ -13,5 +14,4 @@ tmp/uploads/*
 !tmp/uploads/.gitkeep
 .DS_Store
 
-.env
-ormconfig.json
+
