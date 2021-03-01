@@ -70,7 +70,7 @@ $ yarn typeorm migration:run
 ## To finish, run the api service
 $ yarn dev:server
 
-###🚀 Well done, project is started!
+### 🚀 Well done, project is started!
 
 # How to contribute 🤝
 Make a fork of this repository
