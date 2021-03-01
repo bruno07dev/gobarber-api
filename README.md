@@ -1,12 +1,15 @@
-✂ GoBarber, an Express aplication project
+# ✂ GoBarber, an Express aplication project
+
 An app for your barbershop!
 
-📝 About the project
+# 📝 About the project
+
 The provider can manage your appointments and receive notification when a new appointment is scheduled, also see if one client canceled the schedule.
 
 The client can list all providers, see their available times and schedule or cancel a service.
 
-🛠 Technologies
+# 🛠 Technologies
+
 Technologies that I used to develop this api
 
 Node.js
@@ -27,7 +30,7 @@ Eslint
 Prettier
 EditorConfig
 
-💻 Getting started
+# 💻 Getting started
 Import the Insomnia.json on Insomnia App
 
 Requirements
@@ -67,7 +70,7 @@ $ yarn typeorm migration:run
 ## To finish, run the api service
 $ yarn dev:server
 
-### Well done, project is started!
+🚀### Well done, project is started!
 
 # How to contribute 🤝
 Make a fork of this repository
@@ -91,7 +94,7 @@ $ git commit -m 'feat: My new feature'
 $ git push origin my-feature
 After your pull request is merged, you can delete your branch
 
-📝 License
+# 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Made by bruno07dev
