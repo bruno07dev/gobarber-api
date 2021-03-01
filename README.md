@@ -12,35 +12,35 @@
 
 Technologies that I used to develop this api
 
-Node.js
-TypeScript
-Express
-Multer
-TypeORM
-JWT-token
-uuid v4
-PostgreSQL
-Date-fns
-Jest
-SuperTest
-Husky
-Commitlint
-Commitizen
-Eslint
-Prettier
-EditorConfig
+-Node.js
+-TypeScript
+-Express
+-Multer
+-TypeORM
+-JWT-token
+-uuid v4
+-PostgreSQL
+-Date-fns
+-Jest
+-SuperTest
+-Husky
+-Commitlint
+-Commitizen
+-Eslint
+-Prettier
+-EditorConfig
 
 # 💻 Getting started
 Import the Insomnia.json on Insomnia App
 
-Requirements
-Node.js
-Yarn or npm
-One instance of PostgreSQL
-Docker
-Insomnia
+#### Requirements
+-Node.js
+-Yarn or npm
+-One instance of PostgreSQL
+-Docker
+-Insomnia
 
-Clone the project and access the folder
+#### Clone the project and access the folder
 
 $ git clone https://github.com/bruno07dev/gobarber-api.git && cd gobarber-api
 Follow the steps below
