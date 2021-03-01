@@ -1,6 +1,6 @@
-# ✂ GoBarber, an Express aplication project
+# <p align="center">✂ GoBarber, an Express aplication project<p>
 
-## An app for your barbershop!
+## <p align="center">An app for your barbershop!<p>
 
 # 📝 About the project
 
