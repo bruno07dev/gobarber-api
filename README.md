@@ -10,25 +10,25 @@
 
 # 🛠 Technologies
 
-Technologies that I used to develop this api
+#### Technologies that I used to develop this api
 
--Node.js
--TypeScript
--Express
--Multer
--TypeORM
--JWT-token
--uuid v4
--PostgreSQL
--Date-fns
--Jest
--SuperTest
--Husky
--Commitlint
--Commitizen
--Eslint
--Prettier
--EditorConfig
+- Node.js
+- TypeScript
+- Express
+- Multer
+- TypeORM
+- JWT-token
+- uuid v4
+- PostgreSQL
+- Date-fns
+- Jest
+- SuperTest
+- Husky
+- Commitlint
+- Commitizen
+- Eslint
+- Prettier
+- EditorConfig
 
 # 💻 Getting started
 Import the Insomnia.json on Insomnia App
