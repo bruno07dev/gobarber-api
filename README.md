@@ -34,11 +34,11 @@
 Import the Insomnia.json on Insomnia App
 
 #### Requirements
--Node.js
--Yarn or npm
--One instance of PostgreSQL
--Docker
--Insomnia
+- Node.js
+- Yarn or npm
+- One instance of PostgreSQL
+- Docker
+- Insomnia
 
 #### Clone the project and access the folder
 
@@ -72,6 +72,9 @@ $ yarn dev:server
 
 ### 🚀 Well done, project is started!
 
+### For testing the aplication on the terminal
+$ yarn test
+
 # How to contribute 🤝
 Make a fork of this repository
 
@@ -94,7 +97,12 @@ $ git commit -m 'feat: My new feature'
 $ git push origin my-feature
 After your pull request is merged, you can delete your branch
 
+> Status Project: Finalized :heavy_check_mark:
+
 # 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+[<img src="https://avatars.githubusercontent.com/u/66931016?s=460&u=68bdaab4339d594139e0f083a0346b30ddb8402d&v=4" width=115 > <br> <sub> Bruno Cardoso </sub>](https://www.linkedin.com/in/bruno-s-cardoso/) |
+| :---: | 
 
 Made by bruno07dev
