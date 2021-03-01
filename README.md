@@ -1,12 +1,12 @@
 # ✂ GoBarber, an Express aplication project
 
-An app for your barbershop!
+## An app for your barbershop!
 
 # 📝 About the project
 
-The provider can manage your appointments and receive notification when a new appointment is scheduled, also see if one client canceled the schedule.
+## <p align="justify">The provider can manage your appointments and receive notification when a new appointment is scheduled, also see if one client canceled the schedule.
 
-The client can list all providers, see their available times and schedule or cancel a service.
+The client can list all providers, see their available times and schedule or cancel a service.<p>
 
 # 🛠 Technologies
 
