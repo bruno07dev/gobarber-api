@@ -4,9 +4,9 @@
 
 # 📝 About the project
 
-## <p align="justify">The provider can manage your appointments and receive notification when a new appointment is scheduled, also see if one client canceled the schedule.
+### <p align="justify">The provider can manage your appointments and receive notification when a new appointment is scheduled, also see if one client canceled the schedule.<p>
 
-The client can list all providers, see their available times and schedule or cancel a service.<p>
+### <p align="justify">The client can list all providers, see their available times and schedule or cancel a service.<p>
 
 # 🛠 Technologies
 
